@@ -1,3 +1,4 @@
+#!/bin/bash
 su - jenkins
 /var/jenkins_home/apc logout
 /var/jenkins_home/apc login
