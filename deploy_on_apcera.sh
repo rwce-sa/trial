@@ -1,3 +1,4 @@
+su - jenkins
 /var/jenkins_home/apc logout
 /var/jenkins_home/apc login
 sleep 1
