@@ -1,6 +1,4 @@
 #!/bin/bash
-whoami
-/var/jenkins_home/apc target continuum4play.seln.ete.ericsson.se
 /var/jenkins_home/apc logout
 /var/jenkins_home/apc login
 sleep 1
